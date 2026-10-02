@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.0/DriveOS_CarLauncher_1.1.0.apk",
-  "changelog": "• Адаптация под вертикальные экраны (Tesla Style)\n• Поддержка сторонней навигации на главном экране\n• Встроенный файловый менеджер\n• Реальные логотипы радиостанций\n• Встроено автоматическое обновление",
-  "sizeBytes": 154501457,
+  "versionCode": 3,
+  "versionName": "1.1.0 (1)",
+  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.0-1/DriveOS_CarLauncher_1.1.0.apk",
+  "changelog": "• Устранён конфликт подписи и ошибка установки поверх предыдущих версий\n• Размер приложения уменьшен на 68 МБ (оптимизация под авто-чипы)\n• Защита от вылета при выборе OpenStreetMap на магнитолах без WebView\n• Исправлен запуск Яндекс Навигатора на TS18 (Android 15)\n• Повышена стабильность и плавность работы",
+  "sizeBytes": 90361192,
   "forceUpdate": false
 }
