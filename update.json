@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.0/DriveOS_CarLauncher_1.1.0.apk",
+  "changelog": "• Адаптация под вертикальные экраны (Tesla Style)\n• Поддержка сторонней навигации на главном экране\n• Встроенный файловый менеджер\n• Реальные логотипы радиостанций\n• Встроено автоматическое обновление",
+  "sizeBytes": 154501457,
+  "forceUpdate": false
+}
