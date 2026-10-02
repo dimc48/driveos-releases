@@ -3,6 +3,6 @@
   "versionName": "1.1.0 (1)",
   "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.0-1/DriveOS_CarLauncher_1.1.0.apk",
   "changelog": "• Устранён конфликт подписи и ошибка установки поверх предыдущих версий\n• Размер приложения уменьшен на 68 МБ (оптимизация под авто-чипы)\n• Защита от вылета при выборе OpenStreetMap на магнитолах без WebView\n• Исправлен запуск Яндекс Навигатора на TS18 (Android 15)\n• Повышена стабильность и плавность работы",
-  "sizeBytes": 90361192,
+  "sizeBytes": 90365293,
   "forceUpdate": false
 }
