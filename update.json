@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
+  "versionCode": 11,
   "versionName": "1.1.16",
   "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.16/DriveOS_CarLauncher_1.1.16.apk",
   "changelog": "• Оптимизирована отправка логов: единый архив на Яндекс.Диске и Telegram\n• Улучшен интерфейс настроек и переключатель диагностики\n• Исправлено отображение окон в вертикальном и полноэкранном режимах\n• Повышена общая стабильность и плавность работы",
-  "sizeBytes": 53965335,
+  "sizeBytes": 23138884,
   "forceUpdate": false
 }
