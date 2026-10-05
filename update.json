@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.13",
-  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.13/DriveOS_CarLauncher_1.1.13.apk",
+  "versionCode": 9,
+  "versionName": "1.1.14",
+  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.1.14/DriveOS_CarLauncher_1.1.14.apk",
   "changelog": "• Исправлен запуск встроенной навигации и приложений (Яндекс Навигатор, 2ГИС)\n• Полностью решена проблема зависания на экране «Запуск...»\n• Добавлена оффлайн-база городов РФ и СНГ для мгновенного геокодинга погоды\n• Исправлен ручной ввод города и кэширование погоды\n• Повышена общая стабильность и плавность работы",
-  "sizeBytes": 53903880,
+  "sizeBytes": 53928456,
   "forceUpdate": false
 }
