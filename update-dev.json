@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
+  "versionCode": 23,
   "versionName": "1.2.1",
   "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.2.1/DriveOS_CarLauncher_1.2.1_TESTER.apk",
-  "changelog": "Тестовая сборка",
-  "sizeBytes": 23729007,
+  "changelog": "Финальная тестовая сборка версии 1.2.1",
+  "sizeBytes": 23819924,
   "forceUpdate": false
 }
