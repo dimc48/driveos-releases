@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.2.2/DriveOS_CarLauncher_1.2.2.apk",
-  "changelog": "• Оптимизирована отправка логов: единый архив на Яндекс.Диске и Telegram\n• Улучшен интерфейс настроек и переключатель диагностики\n• Исправлено отображение окон в вертикальном и полноэкранном режимах\n• Повышена общая стабильность и плавность работы",
-  "sizeBytes": 23580575,
+  "versionCode": 27,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.2.3/DriveOS_CarLauncher_1.2.3.apk",
+  "changelog": "• Оптимизирована работа с OBD сканерами для ряда китайский автомомбилей.\n• Улучшен интерфейс настроек и переключатель диагностики\n• Исправлены недочеты в работе OBD датчиков\n• Исрпалены недочеты в работе Бортового журнала\n• Повышена общая стабильность и плавность работы",
+  "sizeBytes": 23588589,
   "forceUpdate": false
 }
