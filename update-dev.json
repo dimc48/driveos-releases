@@ -3,6 +3,6 @@
   "versionName": "1.2.3",
   "apkUrl": "https://github.com/dimc48/driveos-releases/releases/download/v1.2.3/DriveOS_CarLauncher_1.2.3_TESTER.apk",
   "changelog": "• Оптимизирована отправка логов: единый архив на Яндекс.Диске и Telegram\n• Улучшен интерфейс настроек и переключатель диагностики\n• Исправлено отображение окон в вертикальном и полноэкранном режимах\n• Повышена общая стабильность и плавность работы",
-  "sizeBytes": 23593375,
+  "sizeBytes": 23593469,
   "forceUpdate": false
 }
